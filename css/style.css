@@ -1,0 +1,34 @@
+h1 {
+  color: red;
+  text-align: center;
+  font-style: oblique;
+  font-size:50px;
+}
+h2 {
+  color: brown;
+  text-align: center;
+  font-style: oblique;
+  font-size:40px;
+}
+h3 {
+  color: brown;
+  text-align: center;
+  font-style: italic;
+}
+p{
+  font-family: cursive;
+  text-align: center;
+  text-decoration: inherit;
+}
+ul{
+  text-align: center;
+  font-family:cursive;
+  line-height: inherit;
+  font-size:20px;
+}
+li{
+  font-size:20px;
+  text-align: center;
+  font-family: cursive;
+  list-style: none;
+}
